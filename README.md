@@ -28,6 +28,14 @@ new Asyncei('/path/to/handler/');
 
 3. Watch your block loading asynchronous! 🎉
 
+## How it works?
+
+1. Asyncei queries page in the lookup for specified attribute;
+2. Fetches all found urls asynchronously;
+3. Fetches images in each loaded content block;
+4. Dispatches `blockContentLoaded` event, on the load of the a block;
+5. After all blocks are loaded dispatches `allBlocksLoaded` event;
+
 ## API
 ### Customization
 
