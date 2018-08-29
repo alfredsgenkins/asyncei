@@ -1,9 +1,9 @@
 # Asyncei
 
-<div style="text-align: center">
-<img height="257" src="https://svgshare.com/i/86T.svg">
-<p>Pure JS, lighweight, asynchronous content loader</p>
-</div>
+<p align="center">
+    <img height="257" src="https://svgshare.com/i/86T.svg">
+    <p align="center">Pure JS, lighweight, asynchronous content loader</p>
+</p>
 
 ## Install
 
