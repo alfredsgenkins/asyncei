@@ -1,0 +1,25 @@
+{
+  "name": "asyncei",
+  "version": "1.0.0",
+  "description": "Pure JS, lighweight, asynchronous content loader",
+  "main": "dist/asyncei.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alfredsgenkins/asyncei.git"
+  },
+  "keywords": [
+    "asynchronous",
+    "content loader",
+    "loader",
+    "pure js"
+  ],
+  "author": "Alfreds Genkins",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/alfredsgenkins/asyncei/issues"
+  },
+  "homepage": "https://github.com/alfredsgenkins/asyncei#readme"
+}
