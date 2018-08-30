@@ -1,7 +1,7 @@
 /**
  * @class Asyncei
  * @author Alfreds Genkins, Ilja Lapkovskis
- * @version 0.0.1
+ * @version 1.0.3
  */
 class Asyncei {
     /**
