@@ -1,6 +1,6 @@
 {
   "name": "asyncei",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Pure JS, lighweight, asynchronous content loader",
   "main": "dist/asyncei.js",
   "scripts": {
