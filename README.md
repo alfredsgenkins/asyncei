@@ -1,7 +1,7 @@
 # Asyncei
 
 <p align="center">
-    <img height="257" src="https://svgshare.com/i/86T.svg">
+    <img height="257" src="https://lh4.googleusercontent.com/4Ims9NsHkLc1B9VrMpopg5GH7dVE_plq57MmpTwVXLZG64zEgHh0nukbnuScAfjgF05dIDrIwQHrpstCash8=w800-rw">
     <p align="center">Pure JS, lighweight, asynchronous content loader</p>
 </p>
 
